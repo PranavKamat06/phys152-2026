@@ -44,12 +44,12 @@ Next, we'll get the public key we just generated and put it into gitlab:
 
 ### Creating your fork of the course repository
 
-See HW0 (https://github.com/mhance-ucsc/phys152_2025/blob/main/Homework/Homework_0.ipynb) for instruction on this.  
+See HW0 for instruction on this.  
 
-Once you've created your fork, you can get the files from that repository on Jupyter by running the following in a terminal (replace `<username>` with your own username, and if you called your fork something other than `phys152_2025` then you'll need to change that part of the string as well):
+Once you've created your fork, you can get the files from that repository on Jupyter by running the following in a terminal (replace `<username>` with your own username, and if you called your fork something other than `phys152_2026` then you'll need to change that part of the string as well):
 
 ```
-git clone git@github.com:<username>/phys152_2025.git
+git clone git@github.com:<username>/phys152_2026.git
 ```
 
 That will create a directory in your Jupyter area that has your fork.
